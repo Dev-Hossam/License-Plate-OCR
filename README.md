@@ -12,3 +12,9 @@ This project provides a complete pipeline for detecting and extracting license p
 - **Pretrained Models:** Provided for immediate inference — no dataset needed.
 
 ---
+## 🛠️ Requirements
+
+Install the required dependencies:
+
+```bash
+pip install ultralytics paddleocr opencv-python numpy
